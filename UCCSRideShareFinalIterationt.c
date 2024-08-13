@@ -1,5 +1,4 @@
 //Brianna Knight
-//CS2060
 //PROJECT ITERATION_03
 
 //The goal of this is to create a ride share program with administrator login privleges to set up
